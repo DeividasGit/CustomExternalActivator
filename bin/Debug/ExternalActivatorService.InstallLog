@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.InstallLog
+   assemblypath = C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.exe assembly.
+Committing assembly 'C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.InstallLog
+   assemblypath = C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorService.exe assembly.
+Remove InstallState file because there are no installers.

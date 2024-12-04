@@ -1,0 +1,7 @@
+C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\obj\Debug\ExternalActivatorService.csproj.AssemblyReference.cache
+C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\obj\Debug\ExternalActivatorService.csproj.CoreCompileInputs.cache
+C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorServiceNeon.exe.config
+C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorServiceNeon.exe
+C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\bin\Debug\ExternalActivatorServiceNeon.pdb
+C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\obj\Debug\ExternalActivatorServiceNeon.exe
+C:\Users\d.zemeckas\source\repos\CustomExternalActivator\ExternalActivatorService\obj\Debug\ExternalActivatorServiceNeon.pdb
