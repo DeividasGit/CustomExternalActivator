@@ -72,7 +72,7 @@ namespace ExternalActivatorService
       // Check for new messages
       using (var command =
              new SqlCommand(
-              "SELECT TOP(1) ID, messagetext, toolname, params FROM dbo.MESSAGE WITH(NOLOCK) WHERE messagestatus=0",
+              "SELECT TOP (1) ID, messagetext, toolname, params FROM dbo.MESSAGE WITH (NOLOCK) WHERE messagestatus = 0",
               connection))
       {
        using (var reader = command.ExecuteReader())
@@ -154,7 +154,8 @@ namespace ExternalActivatorService
 
     // Insert the response into the Message table
     using (var command =
-           new SqlCommand("UPDATE TOP(1) dbo.MESSAGE SET messagestatus=1, responseid=@responseid WHERE ID=@messageid",
+           new SqlCommand(
+            "UPDATE TOP (1) dbo.MESSAGE SET messagestatus = 1, responseid = @responseid WHERE ID = @messageid",
             connection))
     {
      command.Parameters.AddWithValue("@responseid", responseid);
